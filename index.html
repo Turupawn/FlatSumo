@@ -14,9 +14,9 @@
       var game = new Phaser.Game(800, 600, Phaser.CANVAS, 'fdsa', { preload: preload, create: create, update: update, render: render });
 
       function preload() {
-        game.load.tilemap('mario', '/phaser/map.json', null, Phaser.Tilemap.TILED_JSON);
-        game.load.image('tiles', '/phaser/tileset.png');
-        game.load.image('player', '/phaser/char.png');
+        game.load.tilemap('mario', 'map.json', null, Phaser.Tilemap.TILED_JSON);
+        game.load.image('tiles', 'tileset.png');
+        game.load.image('player', 'char.png');
       }
 
 var pad1;
