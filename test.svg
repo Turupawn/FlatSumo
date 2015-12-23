@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="/home/turupawn/Projects/PhaserPublic/drawing-2.svg">
+   sodipodi:docname="test.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="378.22209"
-     inkscape:cy="603.52241"
+     inkscape:zoom="2.8"
+     inkscape:cx="430.07951"
+     inkscape:cy="677.08707"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -359,5 +359,79 @@
        height="16"
        x="294.24997"
        y="422.1022" />
+    <g
+       id="g3044"
+       inkscape:export-filename="/home/turupawn/Projects/PhaserPublic/countdown.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="340.64722"
+         x="349.18719"
+         height="64"
+         width="64"
+         id="rect3026"
+         style="fill:#0000ff;fill-rule:evenodd;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3028"
+         y="387.22729"
+         x="368.11102"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="387.22729"
+           x="368.11102"
+           id="tspan3030"
+           sodipodi:role="line">1</tspan></text>
+    </g>
+    <g
+       id="g3049"
+       transform="translate(-25.145966,0)"
+       inkscape:export-filename="/home/turupawn/Projects/PhaserPublic/countdown.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#0000ff;fill-rule:evenodd;stroke:none"
+         id="rect3032"
+         width="64"
+         height="64"
+         x="438.33316"
+         y="340.64722" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="458.14566"
+         y="387.49097"
+         id="text3034"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3036"
+           x="458.14566"
+           y="387.49097">2</tspan></text>
+    </g>
+    <g
+       id="g3054"
+       transform="translate(-26.300812,0)"
+       inkscape:export-filename="/home/turupawn/Projects/PhaserPublic/countdown.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="340.64722"
+         x="503.48801"
+         height="64"
+         width="64"
+         id="rect3038"
+         style="fill:#0000ff;fill-rule:evenodd;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3040"
+         y="387.20776"
+         x="522.84155"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="387.20776"
+           x="522.84155"
+           id="tspan3042"
+           sodipodi:role="line">3</tspan></text>
+    </g>
   </g>
 </svg>
