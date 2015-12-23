@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="430.07951"
-     inkscape:cy="677.08707"
+     inkscape:zoom="0.84385899"
+     inkscape:cx="552.9752"
+     inkscape:cy="613.97804"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -51,6 +51,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="stroke:none"
+       id="rect3041"
+       width="254.55844"
+       height="194.45436"
+       x="351.02802"
+       y="124.032" />
     <rect
        style="fill:#0000ff;fill-rule:evenodd;stroke:none"
        id="rect3045"
@@ -359,79 +366,188 @@
        height="16"
        x="294.24997"
        y="422.1022" />
-    <g
-       id="g3044"
+    <rect
+       style="fill:#0000ff;fill-rule:evenodd;stroke:none"
+       id="rect3026"
+       width="64"
+       height="64"
+       x="378.51523"
+       y="333.10571"
        inkscape:export-filename="/home/turupawn/Projects/PhaserPublic/countdown.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="401.73593"
+       y="379.39282"
+       id="text3028"
+       sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-stretch:normal;fill:#ffffff;font-family:Roboto;-inkscape-font-specification:Roboto Semi-Light"
+         sodipodi:role="line"
+         id="tspan3030"
+         x="401.73593"
+         y="379.39282">1</tspan></text>
+    <rect
+       style="stroke:none;fill:#ff5252;fill-opacity:1"
+       id="rect3060"
+       width="4"
+       height="4"
+       x="338.21429"
+       y="316.57648"
+       inkscape:export-filename="/home/turupawn/Projects/PhaserPublic/particle.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <rect
-         y="340.64722"
-         x="349.18719"
-         height="64"
-         width="64"
-         id="rect3026"
-         style="fill:#0000ff;fill-rule:evenodd;stroke:none" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3028"
-         y="387.22729"
-         x="368.11102"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="387.22729"
-           x="368.11102"
-           id="tspan3030"
-           sodipodi:role="line">1</tspan></text>
-    </g>
-    <g
-       id="g3049"
-       transform="translate(-25.145966,0)"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#0000ff;fill-rule:evenodd;stroke:none"
+       id="rect3039"
+       width="100"
+       height="100"
+       x="422.40659"
+       y="164.1622" />
+    <path
+       sodipodi:type="star"
+       style="stroke:none"
+       id="path3043"
+       sodipodi:sides="3"
+       sodipodi:cx="469.21585"
+       sodipodi:cy="223.53203"
+       sodipodi:r1="42.791615"
+       sodipodi:r2="21.395807"
+       sodipodi:arg1="1.0471976"
+       sodipodi:arg2="2.0943952"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 490.61166,260.59065 -32.09371,-18.52931 -32.09371,-18.52931 32.09371,-18.52932 32.09371,-18.52931 0,37.05863 z"
+       inkscape:transform-center-x="-9.5650167"
+       inkscape:transform-center-y="-20.124546"
+       transform="matrix(0.91157775,-0.52629965,0.52629965,0.91157775,-72.964971,265.99853)" />
+    <rect
+       y="124.032"
+       x="721.2489"
+       height="194.45436"
+       width="254.55844"
+       id="rect3046"
+       style="stroke:none" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/turupawn/Projects/PhaserPublic/particle.png"
+       y="316.57648"
+       x="708.43518"
+       height="4"
+       width="4"
+       id="rect3048"
+       style="fill:#ffff00;stroke:none" />
+    <path
+       style="fill:#3f51b5;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 547.0546,-39.617172 0,99.999998 100,0 0,-99.999998 -100,0 z m 50,13.624999 19.5,33.7812508 19.5,33.7812482 -39,0 -39,0 19.5,-33.7812482 19.5,-33.7812508 z"
+       id="rect3050"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/turupawn/Projects/PhaserPublic/player1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3058"
+       d="m 692.67171,-42.142554 0,99.999998 100,0 0,-99.999998 -100,0 z m 50,13.625 19.5,33.7812504 19.5,33.7812476 -39,0 -39,0 19.5,-33.7812476 19.5,-33.7812504 z"
+       style="fill:#ff5252;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:export-filename="/home/turupawn/Projects/PhaserPublic/player2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.91157775,-0.52629965,0.52629965,0.91157775,29.17789,290.28424)"
+       inkscape:transform-center-y="-20.124546"
+       inkscape:transform-center-x="-9.5650167"
+       d="m 490.61166,260.59065 -32.09371,-18.52931 -32.09371,-18.52931 32.09371,-18.52932 32.09371,-18.52931 0,37.05863 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="2.0943952"
+       sodipodi:arg1="1.0471976"
+       sodipodi:r2="21.395807"
+       sodipodi:r1="42.791615"
+       sodipodi:cy="223.53203"
+       sodipodi:cx="469.21585"
+       sodipodi:sides="3"
+       id="path3828"
+       style="fill:#ffffff;stroke:none"
+       sodipodi:type="star"
+       inkscape:export-filename="/home/turupawn/Projects/PhaserPublic/player2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 275.56067,152.27206 0,100 100,0 0,-100 -100,0 z m 50,13.625 19.5,33.78125 19.5,33.78125 -39,0 -39,0 19.5,-33.78125 19.5,-33.78125 z"
+       id="path3832"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/turupawn/Projects/PhaserPublic/player2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ff5252;fill-opacity:1;stroke:none"
+       id="rect3836"
+       width="10"
+       height="600"
+       x="164.23708"
+       y="-62.135567"
+       inkscape:export-filename="/home/turupawn/Projects/PhaserPublic/border.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="333.10571"
+       x="442.51523"
+       height="64"
+       width="64"
+       id="rect3841"
+       style="fill:#0000ff;fill-rule:evenodd;stroke:none"
        inkscape:export-filename="/home/turupawn/Projects/PhaserPublic/countdown.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <rect
-         style="fill:#0000ff;fill-rule:evenodd;stroke:none"
-         id="rect3032"
-         width="64"
-         height="64"
-         x="438.33316"
-         y="340.64722" />
-      <text
-         xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         x="458.14566"
-         y="387.49097"
-         id="text3034"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan3036"
-           x="458.14566"
-           y="387.49097">2</tspan></text>
-    </g>
-    <g
-       id="g3054"
-       transform="translate(-26.300812,0)"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3843"
+       y="379.51978"
+       x="463.10898"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="379.51978"
+         x="463.10898"
+         id="tspan3845"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-stretch:normal;fill:#ffffff;font-family:Roboto;-inkscape-font-specification:Roboto Semi-Light">2</tspan></text>
+    <rect
+       style="fill:#0000ff;fill-rule:evenodd;stroke:none"
+       id="rect3847"
+       width="64"
+       height="64"
+       x="506.51523"
+       y="333.10571"
        inkscape:export-filename="/home/turupawn/Projects/PhaserPublic/countdown.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="527.66559"
+       y="379.32446"
+       id="text3849"
+       sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-stretch:normal;fill:#ffffff;font-family:Roboto;-inkscape-font-specification:Roboto Semi-Light"
+         sodipodi:role="line"
+         id="tspan3851"
+         x="527.66559"
+         y="379.32446">3</tspan></text>
+    <rect
+       style="fill:#1a1a1a;stroke:none"
+       id="rect3877"
+       width="760"
+       height="10"
+       x="248.74011"
+       y="711.6167"
+       inkscape:export-filename="/home/turupawn/Projects/PhaserPublic/gentle_border.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <rect
-         y="340.64722"
-         x="503.48801"
-         height="64"
-         width="64"
-         id="rect3038"
-         style="fill:#0000ff;fill-rule:evenodd;stroke:none" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3040"
-         y="387.20776"
-         x="522.84155"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="387.20776"
-           x="522.84155"
-           id="tspan3042"
-           sodipodi:role="line">3</tspan></text>
-    </g>
+       inkscape:export-ydpi="90" />
   </g>
 </svg>
